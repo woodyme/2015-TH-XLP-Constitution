@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * [XLP_Constitution](xlp_constitution)
+   * [XLP_Constitution](xlp_constitution.md)
 
